@@ -1,0 +1,1 @@
+# Analisador-de-Logs-de-Sensores-IoT-com-Pthreads
